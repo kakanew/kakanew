@@ -1,23 +1,14 @@
-## My name is Cássia
+## My name is Cássia...
 
-- 🔭 I am currently looking for a job.
-- 🌱 I'm currently learning Java and JavaScript, it may seem strange but I want to demystify the computer program and the programming language in my mind.
-- 👯 I’m looking to collaborate on Java, JavaScript, Reactjs, Angular, Nodejs.
-- 🤔 I am looking for help to learn Java JavaScript and I will be very grateful to participate in projects.
-- 😄 Pronouns: KaKaNew, Claymore
-- ⚡ Fun fact: I don't usually give up, and to reach my goals I can even climb mountains, I can fall hurt myself, but the next day I try again.
+...being alive is something very important to me... and what comes from this life can only be wonderful...
 
-<!--
-**kakanew/kakanew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I am currently looking for a job.
-- 🌱 I'm currently learning Java and JavaScript, it may seem strange but I want to demystify the computer program and the programming language in my mind.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I am looking for help to learn Java JavaScript and I will be very grateful to participate in projects.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: KaKaNew, Claymore
-- ⚡ Fun fact: I don't usually give up on my goals, and to reach my goals I can even climb mountains, I can fall hurt myself, but the next day I try again.
--->
+- 🔭 “There are two means of refuge from the miseries of life: music and cats.” ― Théophile Gautier
+- 🌱 "We can complain because rose bushes have thorns, or rejoice because thorns have roses." — Alphonse Karr 
+- 👯 "Make improvements, not excuses. Seek respect, not attention." — Roy T. Bennett
+- 🤔 "When we love, we always strive to become better than we are. When we strive to become better than we are, everything around us becomes better too."
+— Paulo Coelho
+- 💬 "Goodbye," said the fox. "And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye."
+— Antoine de Saint-Exupéry
+- 📫 "Education never ends, Watson. It is a series of lessons, with the greatest for the last." — Arthur Conan Doyle
+- 😄 "I like living. I have sometimes been wildly, despairingly, acutely miserable, racked with sorrow; but through it all I still know quite certainly that just to be alive is a grand thing." — Agatha Christie
+- ⚡ “Life appears to me too short to be spent in nursing animosity or registering wrongs.” ― Charlotte Bronte, Jane Eyre
